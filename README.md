@@ -1,0 +1,2 @@
+# SmartShop-Project
+Assesment
